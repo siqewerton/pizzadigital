@@ -9,6 +9,7 @@
   <dependencies>
     <!-- #################################################################### --> 
     <!-- Dependency (Todos os frameworks e bibliotecas utilizadas no projeto) -->
+    <!-- Spark + MongoDB + slf4j + GSON                                       -->
     <!-- #################################################################### --> 
   	<dependency>
     	<groupId>com.sparkjava</groupId>
