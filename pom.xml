@@ -84,7 +84,7 @@
                 </descriptorRefs>
                 <archive>
                     <manifest>
-                        <mainClass>br.com.roberto.view.App</mainClass>
+                        <mainClass>view.App</mainClass>
                     </manifest>
                 </archive>
             </configuration>
