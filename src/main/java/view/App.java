@@ -41,5 +41,7 @@ public class App {
 			
 		});
 		
+		post("/" ,(request, response) -> "Acionou o  POST");
+		
 	}
 }
